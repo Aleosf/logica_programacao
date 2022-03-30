@@ -1,0 +1,2 @@
+# logica_programacao
+Repo_disponibilizar_atividades_de_logica_de_programacao
